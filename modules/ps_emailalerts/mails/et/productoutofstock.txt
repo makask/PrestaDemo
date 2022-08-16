@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Tervist,
+
+{product} on praktiliselt otsas.
+
+Laos on alla {last_qty} eseme.
+
+Allesolev laokogus: {qty}
+
+Taastage oma laokogust, minge Kataloog > Varud seksioonilt tagakontorist.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

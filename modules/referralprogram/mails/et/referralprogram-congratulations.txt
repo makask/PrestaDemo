@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Õnnitleme!
+
+Teie soovitatud sõber {sponsored_firstname} {sponsored_lastname} on asetanud tellimuse [{shop_name}]({shop_url}) poes!
+
+Tänutäheks teile oleme loonud sooduskupongi väärtusega {discount_display} (KUPONG # {discount_name}), mida saate kasutada järgmise tellimuse juures.
+
+Parimate soovidega,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

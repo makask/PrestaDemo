@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Liitu meiega!
+
+Teie sõber {firstname} {lastname} soovitab Teile poodi [{shop_name}]({shop_url})!
+
+Tänuks oleme Teile loonud sooduskupongi väärtusega {discount}, mida saate kasutada järgmise tellimuse juures. Soovitage meie poodi ja teenige endale {discount} väärtuses soodustust!
+
+[See on lihtne, registreerumiseks vajutage lihtsalt siia!]({link})
+
+Konto loomisel ärge unustage sisestamast ka soovitanud sõbra e-maili: {email}.
+
+Parimate soovidega,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

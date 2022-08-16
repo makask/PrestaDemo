@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Teie ostukorv {shop_name}
+
+Täname Teid külastamise eest, kuid tundub, et Te ei lõpetanud oma tellimust.
+
+Teie ostukorv on salvestatud ja saate ostu lõpule viia, meie poodi külastades: {shop_url}
+
+Lisaks anname Teile allahindlust {amount}% Teie järgmisel tellimusel. See pakkumine kehtib ainult {days} päeva, seega ärge oodake kauem!
+
+Teie sooduskupong {shop_name} poes
+
+Siin on sinu KUPONGI KOOD: {voucher_num}
+
+Sisestage see kood oma ostukorvi ostu sooritamisel, et allahindlust kasutada.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

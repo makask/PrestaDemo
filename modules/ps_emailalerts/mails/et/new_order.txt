@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Õnnitleme!
+
+Uus tellimus esitati {shop_name} poes järgneva kliendi poolt: {firstname} {lastname} ({email})
+
+Tellimuse andmed
+
+Tellimus: {order_name} Esitatud {date}
+
+Maksmine: {payment}
+
+Tootekood	toode	Hind	Kogus	Kogu hind   {items}
+Toodet	{total_products}
+Allahindlused	{total_discounts}
+Kinkepakend	{total_wrapping}
+Saatmine	{total_shipping}
+Sisaldab kogu maksu	{total_tax_paid}
+Kokku makstud	{total_paid}
+
+Kuller
+
+Kuller: {carrier}
+
+Maksmine: {payment}
+
+Saatmise aadress
+
+{delivery_block_html}
+
+Arve aadress
+
+{invoice_block_html}
+
+Kliendi sõnum:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
